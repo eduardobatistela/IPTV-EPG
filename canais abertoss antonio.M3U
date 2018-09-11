@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.sitedecuriosidades.com/im/g/B1A15.jpg" group-title="CANAL ANTONIO", RECORD CAMPINAS
-http://89.46.101.105:8081/live/master14/chunks.m3u8?nimblesessionid=119108&wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTggNzozNDoyMyBQTSZoYXNoX3ZhbHVlPTJjWExzQnNOMGFXQ05ZTnBJTGpMTnc9PSZ2YWxpZG1pbnV0ZXM9MTA=
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/885881803407536128/Z2QOTIma.jpg" group-title="CANAL ANTONIO", BAND CAMPINAS
-http://94.102.52.44:8088/live/tvbandaovivo3/playlist.m3u8?id=28427&wowzasessionid=3427010908&pk=00a8edb519419823ad8b0b9ff6936a7d60d8f1d4f2b72a6070d2d48bfdbb9d8a
